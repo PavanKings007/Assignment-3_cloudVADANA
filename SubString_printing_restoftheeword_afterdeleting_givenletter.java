@@ -1,7 +1,7 @@
 package com.company;
 import java.util.Scanner;
 
-public class cloudVADANA_assignment_3 {
+public class SubString_printing_restoftheeword_afterdeleting_givenletter {
 
     public static void main(String[] args) {
 	// write your code here
